@@ -9,16 +9,19 @@ export function Activity() {
           <p className="font-bold">Currently:</p>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Studying CS @{" "}
-          <Link href="https://uwaterloo.ca" target="_blank">
-            University of Waterloo
+          Studying Information Technology @{" "}
+          <Link href="https://www.cmu.edu" target="_blank">
+            Carnegie Mellon University
           </Link>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Advising @{" "}
-          <Link href="https://csclub.uwaterloo.ca" target="_blank">
-            UW Computer Science Club
+          Member @{" "}
+          <Link href="https://www.cmu.edu/ai" target="_blank">
+            AI Club at CMU
           </Link>
+        </CustomListItem>
+        <CustomListItem isSubItem>
+          Making music and covers
         </CustomListItem>
 
         <div className="my-4" />
@@ -27,30 +30,25 @@ export function Activity() {
           <p className="font-bold">Recently:</p>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Software Developer @{" "}
-          <Link href="https://airfairness.com" target="_blank">
-            airfairness
+          Software Developer 2 @{" "}
+          <Link href="https://www.adobe.com" target="_blank">
+            Adobe
           </Link>
         </CustomListItem>
         <CustomListItem isSubItem>
           President @{" "}
-          <Link href="https://csclub.uwaterloo.ca" target="_blank">
-            UW Computer Science Club
+          <Link href="https://www.ted.com/about/programs-initiatives/tedx-program" target="_blank">
+            TEDx
           </Link>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Cofounded @{" "}
-          <Link href="https://nrghacks.ca" target="_blank">
-            NRGHacks
+          Microsoft Learn Student Ambassador @{" "}
+          <Link href="https://mvp.microsoft.com/studentambassadors" target="_blank">
+            Microsoft
           </Link>
         </CustomListItem>
 
         <div className="my-4" />
-
-        <CustomListItem>
-          I write and maintain a blog. Check it out{" "}
-          <Link href="https://blog.dhz.app">here</Link>.
-        </CustomListItem>
 
         <div className="my-4" />
 

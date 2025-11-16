@@ -8,7 +8,7 @@ export function SocialCons() {
       <ul className="flex space-x-1 sm:space-x-1 gap-4 sm:gap-0 pb-4 sm:pb-0">
         <li className="p-0 sm:p-2">
           <a
-            href="https://x.com/dundeezhang"
+            href="https://x.com/keeetzo"
             className="flex items-center justify-center transition-all duration-300 hover:rotate-[15deg] hover:text-[#1DA1F2]"
           >
             <Twitter size={SOCIAL_ICON_SIZE} />
@@ -16,7 +16,7 @@ export function SocialCons() {
         </li>
         <li className="p-0 sm:p-2">
           <a
-            href="https://github.com/dundeezhang"
+            href="https://github.com/kirtipalve"
             className="flex items-center justify-center transition-all duration-300 hover:rotate-[15deg] hover:text-[#6366f1]"
           >
             <Github size={SOCIAL_ICON_SIZE} />
@@ -24,7 +24,7 @@ export function SocialCons() {
         </li>
         <li className="p-0 sm:p-2">
           <a
-            href="https://linkedin.com/in/dundeezhang"
+            href="https://linkedin.com/in/kirti-palve"
             className="flex items-center justify-center transition-all duration-300 hover:rotate-[15deg] hover:text-[#0077B5]"
           >
             <Linkedin size={SOCIAL_ICON_SIZE} />
@@ -32,7 +32,7 @@ export function SocialCons() {
         </li>
         <li className="p-0 sm:p-2">
           <a
-            href="mailto:contact@dundeezha.ng"
+            href="mailto:kirtipalve284@gmail.com"
             className="flex items-center justify-center transition-all duration-300 hover:rotate-[15deg] hover:text-[#FF4D00]"
           >
             <Mail size={SOCIAL_ICON_SIZE} />

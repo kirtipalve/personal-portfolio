@@ -9,22 +9,25 @@ export function Experiences() {
           <p className="font-bold">Currently:</p>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Studying CS @{" "}
-          <Link href="https://uwaterloo.ca" target="_blank">
-            University of Waterloo
+          Studying Information Technology @{" "}
+          <Link href="https://www.cmu.edu" target="_blank">
+            Carnegie Mellon University
           </Link>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Advising @{" "}
-          <Link href="https://csclub.uwaterloo.ca" target="_blank">
-            UW Computer Science Club
+          Studying Distributed Systems @{" "}
+          <Link href="https://www.cmu.edu" target="_blank">
+            CMU
           </Link>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Writing @{" "}
-          <Link href="https://blog.dhz.app" target="_blank">
-            blog.dhz.app
+          Member @{" "}
+          <Link href="https://www.cmu.edu/ai" target="_blank">
+            AI Club at CMU
           </Link>
+        </CustomListItem>
+        <CustomListItem isSubItem>
+          Making music and covers
         </CustomListItem>
 
         <div className="my-4" />
@@ -33,28 +36,25 @@ export function Experiences() {
           <p className="font-bold">Previously:</p>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Software Developer @{" "}
-          <Link href="https://airfairness.com" target="_blank">
-            airfairness
+          Software Developer 2 @{" "}
+          <Link href="https://www.adobe.com" target="_blank">
+            Adobe
           </Link>
         </CustomListItem>
         <CustomListItem isSubItem>
           President @{" "}
-          <Link href="https://csclub.uwaterloo.ca" target="_blank">
-            UW Computer Science Club
+          <Link href="https://www.ted.com/about/programs-initiatives/tedx-program" target="_blank">
+            TEDx
           </Link>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Director @{" "}
-          <Link href="https://mathsoc.uwaterloo.ca" target="_blank">
-            UW Mathematics Society
+          Microsoft Learn Student Ambassador @{" "}
+          <Link href="https://mvp.microsoft.com/studentambassadors" target="_blank">
+            Microsoft
           </Link>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Lifesaving Instructor @{" "}
-          <Link href="https://www.newmarket.ca/" target="_blank">
-            Town of Newmarket
-          </Link>
+          Patent holder - Government of India
         </CustomListItem>
       </CustomList>
       <div className="my-4" />

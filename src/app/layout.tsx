@@ -16,30 +16,30 @@ const anonymousPro = Anonymous_Pro({
 export const metadata: Metadata = {
   metadataBase: new URL(
     process.env.NODE_ENV === "production"
-      ? "https://dundeezhang.com"
+      ? "https://kirtipalve.com"
       : "http://localhost:3000",
   ),
-  title: "Dundee Zhang",
+  title: "Kirti Palve",
   description:
-    "Dundee Zhang's porfolio. View my projects and other works! Love from Toronto <3.",
+    "Kirti Palve's porfolio. View my projects and other works! Love from Pittsburgh <3.",
   openGraph: {
-    title: "Dundee Zhang",
+    title: "Kirti Palve",
     description:
-      "Dundee Zhang's porfolio. View my projects and other works! Love from Toronto <3.",
+      "Kirti Palve's porfolio. View my projects and other works! Love from Pittsburgh <3.",
     images: [
       {
         url: "/card-preview.jpeg",
         width: 1200,
         height: 630,
-        alt: "Dundee Zhang Portfolio",
+        alt: "Kirti Palve Portfolio",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Dundee Zhang",
+    title: "Kirti Palve",
     description:
-      "Dundee Zhang's porfolio. View my projects and other works! Love from Toronto <3.",
+      "Kirti Palve's porfolio. View my projects and other works! Love from Pittsburgh <3.",
     images: ["/card-preview.jpeg"],
   },
 };

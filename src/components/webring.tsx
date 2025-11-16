@@ -21,23 +21,23 @@ export function Webring() {
       <div className="flex items-center justify-center gap-2">
         <a
           className="cs-webring-links"
-          href="https://cs.uwatering.com/#https://dundeezhang.com?nav=prev"
+          href="https://cs.uwatering.com/#https://kirtipalve.com?nav=prev"
         >
           <MoveLeft size={DEFAULT_ICON_SIZE} />
         </a>
         <a
-          href="https://cs.uwatering.com/#https://dundeezhang.com"
+          href="https://cs.uwatering.com/#https://kirtipalve.com"
           target="_blank"
         >
           <Image
             src={isDarkMode ? uwcsWrWhite : uwcsWrBlack}
-            alt="UWaterloo CS Web Ring"
+            alt="CMU CS Web Ring"
             className="h-4 w-4 min-w-4 transition-all duration-300 hover:rotate-[10deg]"
           />
         </a>
         <a
           className="cs-webring-links"
-          href="https://cs.uwatering.com/#https://dundeezhang.com?nav=next"
+          href="https://cs.uwatering.com/#https://kirtipalve.com?nav=next"
         >
           <MoveRight size={DEFAULT_ICON_SIZE} />
         </a>

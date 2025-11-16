@@ -5,11 +5,11 @@ export function Blurb() {
     <div className="px-4">
       <div className="space-y-4">
         <Paragraph>
-          I&apos;m a full stack developer studying Computer Science at the
-          University of Waterloo.
+          I&apos;m a full stack developer studying Information systems at the
+          Carnegie Mellon University.
         </Paragraph>
         <Paragraph>
-          Currently, I&apos;m in Toronto/Waterloo. So if you are in the area,
+          Currently, I&apos;m in Pittsburgh/San Francisco. So if you are in the area,
           feel free to reach out to chat!
         </Paragraph>
         <Paragraph>Otherwise, here are my experiences laid out.</Paragraph>

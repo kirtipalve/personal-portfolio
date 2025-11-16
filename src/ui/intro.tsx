@@ -13,14 +13,12 @@ export function Intro() {
         <div>
           <h1 className="text-2xl max-w-fit transition-all duration-300 hover:rotate-[-2deg] hover:scale-108">
             <Link href="/">
-              <span className="glow">Dundee Zhang</span>
+              <span className="glow">Kirti Palve</span>
             </Link>
           </h1>
           <TypeAnimation
             sequence={[
-              "Software Engineer, Waterloo",
-              2000,
-              "Software Engineer, Toronto",
+              "Software Engineer, Pittsburgh",
               2000,
               "Software Engineer, San Francisco",
               2000,
@@ -68,7 +66,7 @@ export function Intro() {
             </Link>
           </li>
           <li>
-            <a href="https://blog.dhz.app">Blog</a>
+            <a href="https://medium.com/@kirtipalve284">Blog</a>
           </li>
         </ul>
       </div>

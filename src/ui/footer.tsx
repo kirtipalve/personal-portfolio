@@ -1,7 +1,6 @@
 "use client";
 
 import { ThemeToggle } from "@/components/theme-toggle";
-import { Webring } from "@/components/webring";
 
 export function Footer() {
   const currYear = new Date().getFullYear();
@@ -11,9 +10,8 @@ export function Footer() {
         <div className="border-t-2 pt-2 flex justify-between items-center">
           <div className="flex items-center gap-4">
             <ThemeToggle />
-            <p>{currYear} Dundee Hu Zhang. All Rights Reserved.</p>
+            <p>{currYear} Kirti Palve</p>
           </div>
-          <Webring />
         </div>
       </footer>
     </>

@@ -1,13 +1,53 @@
 [
   {
-    "title": "Personal Portfolio",
-    "tech": "TypeScript, Next.js, TailwindCSS, Vercel",
-    "description": "My personal portfolio website showcasing my projects, experiences, and skills. Built with Next.js 15 and deployed on Vercel.",
-    "image": "kirtipalve-portfolio.webp",
-    "repo": "https://github.com/kirtipalve/personal-portfolio",
-    "repoLabel": "Github Repository",
+    "title": "Multimodal Lip Sync",
+    "tech": "PyTorch, Wav2Lip, Modal, FastAPI, Kafka, OpenCV, FFmpeg",
+    "description": "Built an AI lip-sync system using PyTorch and Wav2Lip, generating realistic mouth movements from audio. Designed scalable infrastructure on Modal with asynchronous GPU inference, FastAPI endpoints, job queuing, and Kafka-based pipeline orchestration for robust demo deployment.",
+    "image": "",
+    "repo": "https://github.com/kirtipalve/multimodal-lip-sync",
+    "repoLabel": "View on GitHub",
     "buttonClass": "",
-    "link": "https://kirtipalve.com"
+    "link": ""
+  },
+  {
+    "title": "Wordle Timer Extension",
+    "tech": "JavaScript, Chrome Extension API",
+    "description": "Chrome extension that times your Wordle solve and auto-attaches it to your result grid.",
+    "image": "",
+    "repo": "https://github.com/kirtipalve/wordle-timer",
+    "repoLabel": "View on GitHub",
+    "buttonClass": "",
+    "link": ""
+  },
+  {
+    "title": "Interactive AI Rhythm Detector",
+    "tech": "Python, Librosa, Real-time Audio Processing",
+    "description": "Built a real-time rhythm detector in Python, extracting tempo and beat features from audio streams with high accuracy and low latency using Librosa. Designed scalable signal processing pipelines for future integration with music recommendation systems.",
+    "image": "",
+    "repo": "https://github.com/kirtipalve/rush-or-drag-project",
+    "repoLabel": "View on GitHub",
+    "buttonClass": "",
+    "link": "https://rush-or-drag-project-11klpoxsk-kirtipalves-projects.vercel.app/"
+  },
+  {
+    "title": "Smart Helmet System",
+    "tech": "C++, Unix-based OS, IoT, Real-time Systems",
+    "description": "Developed a Unix-based OS in C++ for smart helmets, handling real-time sensor data to detect unsafe conditions. Patent granted by the Government of India for this IoT safety device.",
+    "image": "",
+    "repo": "https://github.com/kirtipalve/smart-helmet-system",
+    "repoLabel": "View on GitHub",
+    "buttonClass": "",
+    "link": ""
+  },
+  {
+    "title": "Personal Relationship Manager",
+    "tech": "AI, Data Analysis, Automation",
+    "description": "A personal relationship manager that analyzes your network data to answer relevant queries and automate relationship-building tasks like reply alerts, birthday reminders, and follow-ups.",
+    "image": "",
+    "repo": "https://github.com/kirtipalve/relationship-manager",
+    "repoLabel": "View on GitHub",
+    "buttonClass": "",
+    "link": ""
   },
   {
     "title": "More Projects",
@@ -15,7 +55,7 @@
     "description": "Check out my GitHub profile for more projects including work at Adobe, TEDx initiatives, and personal experiments.",
     "image": "",
     "repo": "https://github.com/kirtipalve",
-    "repoLabel": "Github Profile",
+    "repoLabel": "GitHub Profile",
     "buttonClass": "hide-button-class",
     "link": ""
   }

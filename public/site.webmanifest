@@ -1,6 +1,6 @@
 {
-  "name": "Dundee Zhang",
-  "short_name": "Dundee Zhang",
+  "name": "Kirti Palve",
+  "short_name": "Kirti Palve",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -17,5 +17,5 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "start_url": "/",
-  "description": "Dundee Zhang's portfolio. Computer Science, Waterloo. Love from Toronto <3."
+  "description": "Kirti Palve's portfolio. Information Technology, CMU. Love from Pittsburgh <3."
 }

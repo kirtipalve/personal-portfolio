@@ -9,19 +9,16 @@ export function Activity() {
           <p className="font-bold">Currently:</p>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Studying Information Technology @{" "}
+          Master of Information Systems Management @{" "}
           <Link href="https://www.cmu.edu" target="_blank">
             Carnegie Mellon University
           </Link>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Member @{" "}
-          <Link href="https://www.cmu.edu/ai" target="_blank">
-            AI Club at CMU
-          </Link>
+          Building AI systems for video translation and multimodal understanding
         </CustomListItem>
         <CustomListItem isSubItem>
-          Making music and covers
+          Exploring cloud computing, distributed systems, and scalable ML infrastructure
         </CustomListItem>
 
         <div className="my-4" />
@@ -30,16 +27,13 @@ export function Activity() {
           <p className="font-bold">Recently:</p>
         </CustomListItem>
         <CustomListItem isSubItem>
-          Software Developer 2 @{" "}
+          Software Development Engineer 2 @{" "}
           <Link href="https://www.adobe.com" target="_blank">
             Adobe
           </Link>
         </CustomListItem>
         <CustomListItem isSubItem>
-          President @{" "}
-          <Link href="https://www.ted.com/about/programs-initiatives/tedx-program" target="_blank">
-            TEDx
-          </Link>
+          Shipped accessibility and globalization features to millions of users
         </CustomListItem>
         <CustomListItem isSubItem>
           Microsoft Learn Student Ambassador @{" "}

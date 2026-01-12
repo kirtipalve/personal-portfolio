@@ -43,14 +43,6 @@ export function Intro() {
           </li>
           <li>
             <Link
-              href="/about"
-              className={pathname === "/about" ? "active" : ""}
-            >
-              About
-            </Link>
-          </li>
-          <li>
-            <Link
               href="/works"
               className={pathname === "/works" ? "active" : ""}
             >

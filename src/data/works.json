@@ -34,7 +34,7 @@
     "tech": "C++, Unix-based OS, IoT, Real-time Systems",
     "description": "Developed a Unix-based OS in C++ for smart helmets, handling real-time sensor data to detect unsafe conditions. Patent granted by the Government of India for this IoT safety device.",
     "image": "",
-    "repo": "https://github.com/kirtipalve/smart-helmet-system",
+    "repo": "https://github.com/kirtipalve/AccidentDetectionAndTrackingApp",
     "repoLabel": "View on GitHub",
     "buttonClass": "",
     "link": ""
@@ -44,7 +44,7 @@
     "tech": "AI, Data Analysis, Automation",
     "description": "A personal relationship manager that analyzes your network data to answer relevant queries and automate relationship-building tasks like reply alerts, birthday reminders, and follow-ups.",
     "image": "",
-    "repo": "https://github.com/kirtipalve/relationship-manager",
+    "repo": "https://github.com/hongdnn/mongodb_hackathon_backend",
     "repoLabel": "View on GitHub",
     "buttonClass": "",
     "link": ""
